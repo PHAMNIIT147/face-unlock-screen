@@ -31,7 +31,7 @@ I have used three python files to solve this issue.
 
 ## Having problems?
 
-If you run into problems, Please feel free to connect me on [Linkedin](https://www.linkedin.com/in/bala-venkatesh-67964247/) and [Twitter](https://twitter.com/balavenkatesh22)
+If you run into problems, Please feel free to connect me on [Linkedin](https://www.linkedin.com/in/bala-venkatesh-67964247/) and [Twitter](https://twitter.com/phongpham147)
 
 
 ## Contributing
